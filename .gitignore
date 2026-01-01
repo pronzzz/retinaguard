@@ -1,0 +1,24 @@
+# Data
+data/
+data_test/
+
+# Models
+models/
+*.pth
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.venv
+venv/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Artifacts
+preprocessing_demo.png
